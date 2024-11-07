@@ -16,7 +16,7 @@
     ![alt text](<WhatsApp Image 2024-11-07 at 17.40.30_dac34ad1.jpg>)
 
     * Display The Picture
-    
+
     ![alt text](image-2.png)
 
     ![alt text](<WhatsApp Image 2024-11-07 at 17.40.33_87051d05.jpg>)
@@ -29,10 +29,21 @@
 
     **https://github.com/bagusswahasdwikaa/kamera_filter_flutter**
 
+    * Pengambilan Foto 
+
+    ![alt text](<WhatsApp Image 2024-11-07 at 17.40.33_c79014bb.jpg>)
+
+    * Hasil Pengambilan Foto dengan dibuat Filter Carousel
+
+    ![alt text](<WhatsApp Image 2024-11-07 at 17.40.33_cf3190d4.jpg>)
 
 
 3. Jelaskan maksud void async pada praktikum 1?
 
+    * Fungsi Future main() async { ... } menunjukkan bahwa main() adalah fungsi asinkron yang mungkin menjalankan operasi yang memerlukan waktu atau menunggu respons dari sumber daya eksternal (seperti inisialisasi plugin). Fungsi ini tidak mengembalikan nilai apa pun.
+
 4. Jelaskan fungsi dari anotasi @immutable dan @override ?
 
+    * @immutable digunakan untuk menandakan bahwa suatu kelas bersifat "immutable" atau tidak bisa diubah setelah instansiasi. Ini berarti semua properti dalam kelas tersebut bersifat final atau konstan, sehingga nilainya tetap setelah objek dibuat. Hal ini berguna untuk mencegah perubahan data yang tidak disengaja, menjaga konsistensi data, serta memudahkan pemahaman dan pemeliharaan kode.
+    
 5. Kumpulkan link commit repository GitHub Anda kepada dosen yang telah disepakati!
