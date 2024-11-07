@@ -22,7 +22,7 @@ class FilterSelector extends StatefulWidget {
 }
 
 class _FilterSelectorState extends State<FilterSelector> {
-  static const _filtersPerScreen = 5;
+  static const _filtersPerScreen = 7;
   static const _viewportFractionPerItem = 1.0 / _filtersPerScreen;
 
   late final PageController _controller;

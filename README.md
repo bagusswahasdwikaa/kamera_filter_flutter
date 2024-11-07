@@ -1,16 +1,38 @@
-# kamera_filter_flutter
+#### **Nama : Sukma Bagus Wahasdwika**
 
-A new Flutter project.
+#### **NIM  : 2241720223**
 
-## Getting Started
+#
 
-This project is a starting point for a Flutter application.
+# Tugas Praktikum
 
-A few resources to get you started if this is your first Flutter project:
+1. Selesaikan Praktikum 1 dan 2, lalu dokumentasikan dan push ke repository Anda berupa screenshot setiap hasil pekerjaan beserta penjelasannya di file README md! Jika terdapat error atau kode yang tidak dapat berjalan, silakan Anda perbaiki sesuai tujuan aplikasi dibuat!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    **PRAKTIKUM 1 : https://github.com/bagusswahasdwikaa/kamera_flutter**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    * Take A Picture 
+    ![alt text](image-1.png)
+
+    ![alt text](<WhatsApp Image 2024-11-07 at 17.40.30_dac34ad1.jpg>)
+
+    * Display The Picture
+    
+    ![alt text](image-2.png)
+
+    ![alt text](<WhatsApp Image 2024-11-07 at 17.40.33_87051d05.jpg>)
+
+    **PRAKTIKUM 2 : https://github.com/bagusswahasdwikaa/photo_filter_carousel**
+
+    ![alt text](image.png)
+
+2. Gabungkan hasil praktikum 1 dengan hasil praktikum 2 sehingga setelah melakukan pengambilan foto, dapat dibuat filter carouselnya!
+
+    **https://github.com/bagusswahasdwikaa/kamera_filter_flutter**
+
+
+
+3. Jelaskan maksud void async pada praktikum 1?
+
+4. Jelaskan fungsi dari anotasi @immutable dan @override ?
+
+5. Kumpulkan link commit repository GitHub Anda kepada dosen yang telah disepakati!
