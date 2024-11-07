@@ -19,7 +19,7 @@
 
     ![alt text](image-2.png)
 
-    ![alt text](DP1.jpg>)
+    ![alt text](DP1.jpg)
 
     **PRAKTIKUM 2 : https://github.com/bagusswahasdwikaa/photo_filter_carousel**
 
